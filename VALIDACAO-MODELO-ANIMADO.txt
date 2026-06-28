@@ -1,0 +1,41 @@
+VALIDAÇÃO — MOTO FUNCIONAL 4 GLB ANIMADA
+
+Arquivo de origem: moto_funcional4glb.glb
+Arquivo criado: moto_funcional4glb_animada.glb
+Tamanho final: 43.99 MB
+
+CONTEÚDO 3D
+- Nós/objetos: 281
+- Malhas: 160
+- Nós que possuem malha: 160
+- Materiais: 9
+- Imagens incorporadas: 4
+- Texturas declaradas: 0
+- Animações: 3
+
+ANIMAÇÕES DISPONÍVEIS
+- Exploded_View
+- Assemble_View
+- Parts_Presentation
+
+APRESENTAÇÃO SEQUENCIAL
+- 1. Chassis, tanque e banco: 0.45s até 1.60s
+- 2. Fiação, mola e componentes mecânicos: 1.80s até 2.95s
+- 3. Suspensão dianteira e guidão: 3.15s até 4.30s
+- 4. Sistema de freio e controles: 4.50s até 5.65s
+- 5. Farol e iluminação: 5.85s até 7.00s
+- 6. Suspensão traseira: 7.20s até 8.35s
+- 7. Rodas e pneus: 8.55s até 9.70s
+- 8. Aros e discos de freio: 9.90s até 11.05s
+- 9. Paralamas e placas: 11.25s até 12.40s
+- 10. Logo e parafusos: 12.60s até 13.75s
+
+RESULTADO
+O modelo possui malhas e materiais e recebeu animações de:
+1. Explosão das peças;
+2. Remontagem da moto;
+3. Apresentação sequencial dos principais conjuntos.
+
+OBSERVAÇÃO
+Arquivos .blend não são carregados diretamente por navegadores. Para interação no site,
+o formato correto é GLB/GLTF.

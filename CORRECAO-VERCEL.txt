@@ -1,0 +1,16 @@
+CORREÇÃO DO ERRO DE INSTALAÇÃO NA VERCEL
+
+Erro anterior:
+npm error Exit handler never called!
+
+Correções aplicadas:
+- dependências fixadas em versões exatas;
+- package-lock.json convertido para URLs públicas do npm;
+- Node.js fixado em 22.x;
+- npm ci definido como comando de instalação;
+- Vite definido como framework;
+- diretório de saída definido como dist;
+- arquivo .npmrc apontando para https://registry.npmjs.org/.
+
+Opção mais segura:
+Use o arquivo MN_Animat_GitHub_Vercel_Sem_NPM.zip. Ele já está compilado e não executa npm na Vercel.
