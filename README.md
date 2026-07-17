@@ -132,7 +132,7 @@ Sou desenvolvedor e animador 3D apaixonado por criar soluções que unem criativ
 ## 🎯 Objetivos 2026
 
 ```js
-const michael = {
+const micael = {
   foco: ["Criar ferramentas para animação 3D", "Desenvolver apps Android"],
   aprendendo: ["Inteligência Artificial aplicada", "VFX Avançado"],
   colaborando: "Projetos Open Source",
