@@ -169,7 +169,7 @@ const micael = {
 
 > Se algum projeto foi útil, considere deixar uma ⭐!
 
-**Feito com ❤️, Blender e muito café ☕ • Estilo: tons claros com textura de neve, cores vibrantes cyberpunk**
+**Feito com Inteligência Artificial e Criatividade Humana • Estilo: tons claros com textura de neve, cores vibrantes cyberpunk**
 
 *Fontes usadas no site: Space Grotesk, Inter, JetBrains Mono - SIL Open Font License (uso comercial permitido)*
 
