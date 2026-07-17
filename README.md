@@ -27,7 +27,7 @@ Sou desenvolvedor e animador 3D apaixonado por criar soluções que unem criativ
 - 🤖 Integração de IA em ferramentas criativas
 - 📦 Softwares multiplataforma e automações
 
-📍 **Feira de Santana - Bahia, Brasil** • 💬 Pergunte-me sobre **Blender, React, Flutter e Android**
+📍 **Feira de Santana - Bahia, Brasil** • 💬 Pergunte-me sobre **Blender, Modelagem & Animação 3D**
 
 ---
 
