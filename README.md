@@ -73,8 +73,8 @@ Sou desenvolvedor e animador 3D apaixonado por criar soluções que unem criativ
 | **📱 Planner-mnanimat** | Planner para organizar rotina, estudos e dinheiro | Kotlin | [➡️ Acessar](https://github.com/mnanimat/Planner-mnanimat) |
 | **☁️ Nuvem** | Sistema de armazenamento e compartilhamento | JavaScript | [➡️ Acessar](https://github.com/mnanimat/nuvem) |
 | **📦 Portal Downloads** | Portal de downloads com catálogo | TypeScript | [➡️ Acessar](https://github.com/mnanimat/portal_downloads) |
-| **🏗️ MNCAD** | Ferramenta CAD | TypeScript, GPL-3.0 | [➡️ Acessar](https://github.com/mnanimat/mncad) |
-| **🌐 Portal** | Sites, Landing Pages e Sistemas Web | TS, MIT | [➡️ Acessar](https://github.com/mnanimat/portal) |
+| **🏗️ CADMNAnimat** | Ferramenta CAD | TypeScript, GPL-3.0 | [➡️ Acessar](https://cad.mnanimat.xyz) |
+| **🌐 Portal** | Sites, Landing Pages e Sistemas Web | TS, MIT | [➡️ Acessar](https://portal.mnanimat.xyz) |
 
 </div>
 
