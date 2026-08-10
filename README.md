@@ -144,8 +144,8 @@ const micael = {
 - [x] Desenvolver aplicativos Android
 - [x] Publicar projetos Open Source
 - [x] Compartilhar conhecimento
-- [ ] Transformar Projetos Digitais em Produtos Físicos: https://canva.link/5j214rijyvu1jc2
-- [ ] Integrar IA em 100% dos projetos
+- [ ] Transformar Projetos Digitais em Produtos Físicos
+- [ ] Integrar IA Local em softwares
 - [ ] Lançar MNAnimat3D v2.0
 
 ---
